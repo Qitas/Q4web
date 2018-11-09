@@ -1,10 +1,8 @@
-﻿[![sites](adv/Qi.png)](http://www.qitas.cn)
+﻿# [webUI](https://github.com/Qitas/webUI) 
 
-# Q4web
+## 简介
 
-### 项目描述
-
-用于部署各种功能的网站，此项目包括一些插件资源和页面
+用于收集整理qitas用到的网页素材
 
 ---
 
@@ -18,16 +16,12 @@
 
 包括各种炫酷的组件
 
-####  imgs
+####  parts
 
-图形图片呈现组件
-
-
----
-## 说明
-
-2018-10-12: 规范仓库
+图形图片呈现组件等其他
 
 ---
+
 ## 为锻造最美之器
-[![sites](adv/qitas.jpg)](http://www.qitas.cn)
+
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
