@@ -1,12 +1,5 @@
-﻿# [webUI](https://github.com/Qitas/webUI) 
+﻿# [web-heads](https://github.com/Qitas/web-heads) 
 
-## 简介
-
-用于收集整理qitas用到的网页素材
-
----
-
-## 组成
 
 ####  page
 
@@ -20,8 +13,6 @@
 
 图形图片呈现组件等其他
 
----
+[![sites](http://182.61.61.133//resources/qitas.png)](http://www.qitas.cn)
 
 ## 为锻造最美之器
-
-[![sites](qitas/qitas.png)](http://www.qitas.cn)
