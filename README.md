@@ -13,6 +13,6 @@
 
 图形图片呈现组件等其他
 
-[![sites](http://182.61.61.133//resources/qitas.png)](http://www.qitas.cn)
+[![sites](http://182.61.61.133//resources/head.png)](http://www.qitas.cn)
 
 ## 为锻造最美之器
