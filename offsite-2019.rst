@@ -1,5 +1,5 @@
-.. post:: June 20, 2019
-   :tags: business, offsite, team
+.. post:: June 20, 2020
+   :tags: business, life, man
    :author: Qitas
    :location: PDX
 
