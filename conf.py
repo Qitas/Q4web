@@ -43,27 +43,15 @@ fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/f
 post_auto_excerpt = 2
 
 blog_authors = {
-    'Eric': ('Eric Holscher', 'http://ericholscher.com'),
-    'Anthony': ('Anthony Johnson', 'http://ohess.org'),
-    'David': ('David Fischer', ''),
-    'Safwan': ('Safwan Rahman', 'https://github.com/safwanrahman/'),
-    'Santos': ('Santos Gallegos', 'https://github.com/stsewd/'),
-    'Saadmk11': ('Maksudul Haque', 'https://github.com/saadmk11/'),
-    'Vaibhav': ('Vaibhav Gupta', 'https://github.com/dojutsu-user'),
-    'Manuel': ('Manuel Kaufmann', 'https://elblogdehumitos.com/'),
+    'Qitas': ('Qitas Tang', 'http://www.qitas.cn'),
 }
-blog_default_author = 'Eric'
+blog_default_author = 'Qitas'
 
 blog_locations = {
-    'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
-    'BND': ('Bend, Oregon', 'https://www.visitbend.com/'),
-    'SAN': ('San Diego, CA', ''),
-    'DHA': ('Dhaka, Bangladesh', 'https://wikitravel.org/en/Bangladesh'),
-    'CUE': ('Cuenca, Ecuador', ''),
-    'LKO': ('Lucknow, India', ''),
-    'BCN': ('Barcelona, Spain', 'https://www.barcelona.cat/en/'),
+    'SH': ('China, ShangHai', 'http://www.qitas.cn/'),
+    'SZ': ('China, SuZhou', 'http://www.qitas.cn/'),
 }
-blog_default_location = 'PDX'
+blog_default_location = 'SH'
 blog_feed_archives = True
 blog_feed_fulltext = True
 blog_feed_length = 10

@@ -1,9 +1,9 @@
 .. post:: June 20, 2020
    :tags: business, life, man
    :author: Qitas
-   :location: PDX
+   :location: SH
 
-简单记录生活
+I'm always here!
 ==========================
 
 The Read the Docs team just finished our first offsite ever in April of 2019.
