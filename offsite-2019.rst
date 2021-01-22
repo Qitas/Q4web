@@ -1,9 +1,9 @@
 .. post:: June 20, 2019
    :tags: business, offsite, team
-   :author: Eric
+   :author: Qitas
    :location: PDX
 
-Read the Docs Offsite 2019
+简单记录生活
 ==========================
 
 The Read the Docs team just finished our first offsite ever in April of 2019.
@@ -15,7 +15,7 @@ A picture will show this better than I can:
 .. figure:: /img/offsite-2019.png
    :width: 90%
    :align: center
-   
+
    The team at the house we rented in Aruba
 
 The full list of attendees, which is the full-time staff, from left to right:
