@@ -12,19 +12,13 @@ and talked about the future of the project.
 
 A picture will show this better than I can:
 
-.. figure:: /img/offsite-2019.png
+.. figure:: /img/qitas.jpg
    :width: 90%
    :align: center
 
    The team at the house we rented in Aruba
 
-The full list of attendees, which is the full-time staff, from left to right:
 
-* David Fischer
-* Manuel Kaufmann
-* Eric Holscher
-* Anthony Johnson
-* Santos Gallegos
 
 Goals
 -----
