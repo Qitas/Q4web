@@ -1,4 +1,4 @@
-.. post:: April 16, 2018
+.. post:: April 16, 2021
    :tags: advertising, business, sustainability, ethical ads
 
 Ethical Advertising Works

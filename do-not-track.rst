@@ -1,4 +1,4 @@
-.. post:: June 8, 2018
+.. post:: June 8, 2021
    :tags: privacy, advertising
    :author: David
    :location: SAN
@@ -35,7 +35,7 @@ Here's a brief list of what we did for Do Not Track:
   Based on our initial data, this looks like about a 6% reduction.
 * While this didn't change, we reiterated that we **do not**
   do behavioral ad targeting regardless of DNT preference.
-  
+
 Full details on Do Not Track at Read the Docs can be found in our `privacy policy`_.
 
 .. _privacy policy: https://docs.readthedocs.io/en/latest/privacy-policy.html#do-not-track
@@ -66,7 +66,7 @@ as it confirms our commitment to privacy in advertising.
 We believe that ads don't have to track people to be effective.
 
 Our `Ethical Ad network`_ is still in its early stages,
-but if you want to know more or you know a project that could use it, 
+but if you want to know more or you know a project that could use it,
 please `get in touch`_.
 
 .. _Ethical Ad network: https://www.ethicalads.io/
