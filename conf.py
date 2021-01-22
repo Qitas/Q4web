@@ -34,8 +34,8 @@ extensions = [
     'atom_absolute',
 ]
 
-blog_title = 'Read the Docs Blog'
-blog_baseurl = 'https://blog.readthedocs.com'
+blog_title = 'Qitas Blog'
+blog_baseurl = 'https://blog.qitas.cn'
 blog_path = 'archive'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 # fontawesome_included = True
@@ -90,8 +90,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Blog'
-copyright = u'2021, Read the Docs, Inc'
+project = u'Qitas Blog'
+copyright = u'2021, QITAS'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -162,19 +162,20 @@ html_theme_options = {
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Read the Docs Blog'
+html_title = 'Qitas Blog'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = 'img/qitas.jpg'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
 #html_favicon = None
+html_favicon='img/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -262,7 +263,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ReadtheDocsBlog.tex', u'Read the Docs Blog',
+  ('index', 'ReadtheDocsBlog.tex', u'Qitas Blog',
    u'Eric Holscher', 'manual'),
 ]
 
@@ -292,7 +293,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocsblog', u'Read the Docs Blog',
+    ('index', 'readthedocsblog', u'Qitas Blog',
      [u'Eric Holscher'], 1)
 ]
 
@@ -306,7 +307,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ReadtheDocsBlog', u'Read the Docs Blog',
+  ('index', 'ReadtheDocsBlog', u'Qitas Blog',
    u'Eric Holscher', 'ReadtheDocsBlog', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -327,10 +328,10 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Read the Docs Blog'
-epub_author = u'Eric Holscher'
-epub_publisher = u'Eric Holscher'
-epub_copyright = u'2014, Eric Holscher'
+epub_title = u'Qitas Blog'
+epub_author = u'Qitas Tang'
+epub_publisher = u'Qitas Tang'
+epub_copyright = u'2021, Qitas Tang'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Read the Docs Blog'

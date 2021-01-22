@@ -5,7 +5,7 @@
 Welcome
 =======
 
-Welcome to the Read the Docs blog.
+Welcome to the Qitas blog.
 
 We will be doing regular feature announcements on the blog as we build them.
 There are also a number of recently released features that we'll highlight there as well.
