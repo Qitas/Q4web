@@ -1,9 +1,5 @@
-﻿
-# [web heads](https://github.com/Qitas/web-heads)
+﻿# [blog](https://github.com/qitas/blog)
 
-[![sites](http://182.61.61.133/link/resources/head.png)](http://www.qitas.cn) 
+blog文章
 
-## 锻造最美之器
-
-[web heads](https://github.com/Qitas/web-heads)前端构建组件
-
+### 年轮在骨，厚积于芯
