@@ -48,11 +48,11 @@ blog_authors = {
 blog_default_author = 'Qitas'
 
 blog_locations = {
-    'SH': ('China, ShangHai', 'http://www.qitas.cn/'),
-    'SZ': ('China, SuZhou', 'http://www.qitas.cn/'),
-    'CD': ('China, ChengDu', 'http://www.qitas.cn/'),
+    'SHA': ('中国, 上海', 'http://www.qitas.cn/'),
+    'SUZ': ('中国, 苏州', 'http://www.qitas.cn/'),
+    'CDU': ('中国, 成都', 'http://www.qitas.cn/'),
 }
-blog_default_location = 'SH'
+blog_default_location = 'SHA'
 blog_feed_archives = True
 blog_feed_fulltext = True
 blog_feed_length = 10

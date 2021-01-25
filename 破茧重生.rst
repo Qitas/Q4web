@@ -1,7 +1,7 @@
 .. post:: Jan 23, 2021
    :tags: 哲学, 心理, 感悟
    :author: Qitas
-   :location: SH
+   :location: CDU
 
 破茧重生
 ================
@@ -38,7 +38,7 @@
     可你来得太晚了，我已经学会了一个人送走落日，一个人等待星光，我的爱早在无数个孤立无援的时刻里，变得有了计较和盘算，再也没有曾经的纯粹。"
 
 .. figure:: /img/weixin.jpg
-   :width: 40%
+   :width: 50%
    :align: center
 
 
