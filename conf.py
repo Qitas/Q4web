@@ -187,6 +187,7 @@ html_static_path = ['_static']
 html_sidebars = {
     '**': [
             'postcard.html',
+            'social.html',
             'recentposts.html',
             'categories.html',
             'archives.html'
