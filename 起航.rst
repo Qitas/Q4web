@@ -1,14 +1,10 @@
 .. post:: Jan 25, 2021
-   :tags: psychology, philosophy, lifestyle
+   :tags: psychology, philosophy, 感悟
    :author: Qitas
    :location: SH
 
-Sailing!
+起航!
 ==========================
-
-The Read the Docs team just finished our first offsite ever in April of 2019.
-We all gathered together in person for the first time,
-and talked about the future of the project.
 
 我们经历了太多世事沉浮，本心蒙蔽，长期处在竞争状态，内心压抑，从心开始，重构自己。
 

@@ -1,35 +1,20 @@
 .. post:: Jan 23, 2021
-   :tags: psychology, philosophy, lifestyle
+   :tags: psychology, philosophy, 感悟
    :author: Qitas
    :location: SH
 
-Renewal!
+重生!
 =============
 
-我们经历了太多世事沉浮，本心蒙蔽，长期处在竞争状态，内心压抑，从心开始，重构自己。
+“我居然渴望他们爱我，我真可怜。”
 
-.. figure:: /img/qitas.jpg
-   :width: 90%
-   :align: center
+                  —— 提利昂·兰尼斯特
 
-   从心开始，实现蜕变
-
-
-psychology
-=============
-
-Our biggest goal was building a shared understanding of the vision for the project.
-Being fully remote,
-it's often hard to communicate at a deep level about mission and vision.
-Being together in person for a week gave us the space to understand each other and our views better.
-
-The other large goal was to build a roadmap for the next 3-6 months for the project.
-We have often had smaller roadmaps,
-but never had the chance to discuss all the problems that we encounter with the project,
-and then prioritize them.
 
 philosophy
 =============
+
+你要知道什么是自己想要的，知道什么是不可逆转的，知道用什么方式实现梦想，知道用什么心情面对苦难，人就在转瞬间感悟，进退得失不离不弃也就都有了答案。我不知道命运会把我带到何方，但是我一直会用善良维护左右
 
 We used the following format:
 
@@ -54,12 +39,10 @@ there was someone else they had never met in person before this.
 Having all met in person will make it much easier to collaborate online going foward,
 and to feel like we are working towards a goal that we all share.
 
-In terms of technical output,
-the roadmap we have established will make us much more productive in our work going foward.
-The entire team now has vision around the roadmap items,
-and understands the tasks other people are working on much better.
-This has already lead to a much better ability to collaborate together.
+"再遇到喜欢的人，想来只觉得非常遗憾，早几年遇见就好了，那些热烈、欢喜、年少轻狂和桀骜不驯，连同整个世界都要送给你。可你来得太晚了，我已经学会了一个人送走落日，一个人等待星光，我的爱早在无数个孤立无援的时刻里，变得有了计较和盘算，再也没有曾经的纯粹"
 
-We are hoping to do another offsite in 2020,
-and if we do our jobs right, hopefully we'll have another teammate or two.
+.. figure:: /img/weixin.jpg
+   :width: 70%
+   :align: center
 
+   认识我
