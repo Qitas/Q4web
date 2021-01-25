@@ -1,9 +1,9 @@
-.. post:: June 20, 2020
+.. post:: Jun 25, 2021
    :tags: psychology, philosophy, lifestyle
    :author: Qitas
    :location: SH
 
-I'm always here!
+Sailing!
 ==========================
 
 The Read the Docs team just finished our first offsite ever in April of 2019.
@@ -13,10 +13,10 @@ and talked about the future of the project.
 我们经历了太多世事沉浮，本心蒙蔽，长期处在竞争状态，内心压抑，从心开始，重构自己。
 
 .. figure:: /img/qitas.jpg
-   :width: 90%
+   :width: 100%
    :align: center
 
-   The team at the house we rented in Aruba
+   扬帆起航
 
 
 
