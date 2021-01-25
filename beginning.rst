@@ -3,7 +3,7 @@
    :author: Qitas
    :location: SH
 
-2021 从心开始
+2021从心开始
 ==========================
 
 我们经历了太多世事沉浮，本心蒙蔽，长期处在竞争状态，内心压抑，从心开始，重构自己。
@@ -12,11 +12,11 @@
    :width: 90%
    :align: center
 
-   从心开始
+   从心开始，实现蜕变
 
 
 
-个人哲学体系
+哲学体系
 -----
 
 Our biggest goal was building a shared understanding of the vision for the project.
@@ -29,7 +29,7 @@ We have often had smaller roadmaps,
 but never had the chance to discuss all the problems that we encounter with the project,
 and then prioritize them.
 
-Format
+重塑世界观
 ------
 
 We used the following format:
@@ -43,7 +43,7 @@ This worked quite well for us.
 It gave us space to talk through all the various topics we had,
 but also gave concrete next steps to move forward on our tasks.
 
-Outcomes
+重构人生观
 --------
 
 The most valuable outcome is something I said at the offsite:
@@ -54,6 +54,9 @@ For each member of the team,
 there was someone else they had never met in person before this.
 Having all met in person will make it much easier to collaborate online going foward,
 and to feel like we are working towards a goal that we all share.
+
+更新价值观
+--------
 
 In terms of technical output,
 the roadmap we have established will make us much more productive in our work going foward.
