@@ -34,8 +34,8 @@ extensions = [
     'atom_absolute',
 ]
 
-blog_title = 'Qitas Blog'
-blog_baseurl = 'https://blog.qitas.cn'
+blog_title = 'QitasBlog'
+blog_baseurl = 'http://blog.qitas.cn'
 blog_path = 'archive'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 # fontawesome_included = True
@@ -79,7 +79,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Qitas Blog'
+project = u'QitasBlog'
 copyright = u'2021, QITAS'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -151,7 +151,7 @@ html_theme_options = {
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Qitas Blog'
+html_title = 'QitasBlog'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -251,7 +251,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ReadtheDocsBlog.tex', u'Qitas Blog',
+  ('index', 'ReadtheDocsBlog.tex', u'QitasBlog',
    u'Eric Holscher', 'manual'),
 ]
 
@@ -281,7 +281,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocsblog', u'Qitas Blog',
+    ('index', 'readthedocsblog', u'QitasBlog',
      [u'Eric Holscher'], 1)
 ]
 
@@ -295,7 +295,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ReadtheDocsBlog', u'Qitas Blog',
+  ('index', 'ReadtheDocsBlog', u'QitasBlog',
    u'Eric Holscher', 'ReadtheDocsBlog', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -316,7 +316,7 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Qitas Blog'
+epub_title = u'QitasBlog'
 epub_author = u'Qitas Tang'
 epub_publisher = u'Qitas Tang'
 epub_copyright = u'2021, Qitas Tang'
