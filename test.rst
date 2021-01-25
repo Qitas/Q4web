@@ -1,22 +1,27 @@
-.. post:: Jun 25, 2021
-   :tags: psychology, philosophy, lifestyle
+.. post:: June 20, 2020
+   :tags: business, life, man
    :author: Qitas
    :location: SH
 
-从心开始
+I'm always here!
 ==========================
 
-我们经历了太多世事沉浮，本心蒙蔽，长期处在竞争状态，内心压抑，从心开始，重构自己。
+The Read the Docs team just finished our first offsite ever in April of 2019.
+We all gathered together in person for the first time,
+and talked about the future of the project.
+
+A picture will show this better than I can:
 
 .. figure:: /img/qitas.jpg
    :width: 90%
    :align: center
 
-   从心开始，实现蜕变
+   The team at the house we rented in Aruba
 
 
-psychology
-=============
+
+Goals
+-----
 
 Our biggest goal was building a shared understanding of the vision for the project.
 Being fully remote,
@@ -28,8 +33,8 @@ We have often had smaller roadmaps,
 but never had the chance to discuss all the problems that we encounter with the project,
 and then prioritize them.
 
-philosophy
-=============
+Format
+------
 
 We used the following format:
 
@@ -42,8 +47,8 @@ This worked quite well for us.
 It gave us space to talk through all the various topics we had,
 but also gave concrete next steps to move forward on our tasks.
 
-lifestyle
-=============
+Outcomes
+--------
 
 The most valuable outcome is something I said at the offsite:
 
