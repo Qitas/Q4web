@@ -35,7 +35,7 @@ extensions = [
 ]
 
 blog_title = 'Qitas Blog'
-blog_baseurl = 'https://blog.qitas.cn'
+blog_baseurl = 'http://blog.qitas.cn'
 blog_path = 'archive'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 # fontawesome_included = True
@@ -185,13 +185,12 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**': [
-          'postcard.html',
-          'social.html',
-          'recentposts.html',
-          'categories.html',
-          'archives.html'
-         ]
+    '**': [
+            'postcard.html',
+            'recentposts.html',
+            'categories.html',
+            'archives.html'
+            ]
 }
 
 # Additional templates that should be rendered to pages, maps page names to
