@@ -10,7 +10,7 @@ The Read the Docs team just finished our first offsite ever in April of 2019.
 We all gathered together in person for the first time,
 and talked about the future of the project.
 
-A picture will show this better than I can:
+我们经历了太多世事沉浮，本心蒙蔽，长期处在竞争状态，内心压抑，从心开始，重构自己。
 
 .. figure:: /img/qitas.jpg
    :width: 90%
