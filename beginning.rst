@@ -16,7 +16,7 @@
 
 
 
-哲学体系
+psychology
 -----
 
 Our biggest goal was building a shared understanding of the vision for the project.
@@ -29,7 +29,7 @@ We have often had smaller roadmaps,
 but never had the chance to discuss all the problems that we encounter with the project,
 and then prioritize them.
 
-重塑世界观
+philosophy
 ------
 
 We used the following format:
@@ -43,7 +43,7 @@ This worked quite well for us.
 It gave us space to talk through all the various topics we had,
 but also gave concrete next steps to move forward on our tasks.
 
-重构人生观
+lifestyle
 --------
 
 The most valuable outcome is something I said at the offsite:
@@ -54,9 +54,6 @@ For each member of the team,
 there was someone else they had never met in person before this.
 Having all met in person will make it much easier to collaborate online going foward,
 and to feel like we are working towards a goal that we all share.
-
-更新价值观
---------
 
 In terms of technical output,
 the roadmap we have established will make us much more productive in our work going foward.
