@@ -1,48 +1,32 @@
 .. post:: Jan 23, 2021
-   :tags: psychology, philosophy, 感悟
+   :tags: 哲学, 心理, 感悟
    :author: Qitas
    :location: SH
 
-重生!
+破茧重生
 =============
 
-“我居然渴望他们爱我，我真可怜。”
-
-                  —— 提利昂·兰尼斯特
+“我居然渴望他们爱我，我真可怜。”     —— 提利昂·兰尼斯特
 
 
-philosophy
-=============
+內视吾心
+----------
 
-你要知道什么是自己想要的，知道什么是不可逆转的，知道用什么方式实现梦想，知道用什么心情面对苦难，人就在转瞬间感悟，进退得失不离不弃也就都有了答案。我不知道命运会把我带到何方，但是我一直会用善良维护左右
+我们的眼睛只能看到外面的世界，在这个丰富的人间，我们见识过太多美好的东西，但是却无法接受自己无法拥有，秉持不将就不妥协的原则，错失了属于自己的美好。
 
-We used the following format:
+你要知道什么是自己想要的，知道什么是不可逆转的，知道用什么方式实现梦想，知道用什么心情面对苦难，人就在转瞬间感悟，进退得失不离不弃也就都有了答案。我不知道命运会把我带到何方，但是我一直会用善良维护左右。
 
-* Before the offsite, we created a Trello board with a list of topics to discuss. This was all the major feature ideas, issues, and concerns that came up over the previous couple months.
-* For the first 3 days, we went through the list and discussed each topic. We took notes (almost 20 pages) of these discussions, and mostly tried to build a shared understanding on a path forward.
-* The 4th day we broke each section down into action items, and chunked them into 1-3 smaller sections of work. We called these "v1", "v2", and "v3" to break out the stages where each project could be shipped and have impact on our users.
-* The 5th day we took all the tasks, then sized and prioritized them. We broke things out into 4 piles representing months going forward, and tried to balance the tasks so each month had a similar amount of work in it. We then turned this into a Trello roadmap board.
 
-This worked quite well for us.
-It gave us space to talk through all the various topics we had,
-but also gave concrete next steps to move forward on our tasks.
+从心开始
+----------
 
-lifestyle
-=============
+从心开始思考，更多是摒弃自我意识中的设限，摒弃后天经历中的主观判断，每个人生阶段的判断力是不一样的，用之前留下的标准来否认现在的自己，如同小学生改大学生的作业一样不可思议。
 
-The most valuable outcome is something I said at the offsite:
 
-    Before, it felt like we were 5 contributors working on an open source project. Now, it feels like we're members of a team.
-
-For each member of the team,
-there was someone else they had never met in person before this.
-Having all met in person will make it much easier to collaborate online going foward,
-and to feel like we are working towards a goal that we all share.
-
-"再遇到喜欢的人，想来只觉得非常遗憾，早几年遇见就好了，那些热烈、欢喜、年少轻狂和桀骜不驯，连同整个世界都要送给你。可你来得太晚了，我已经学会了一个人送走落日，一个人等待星光，我的爱早在无数个孤立无援的时刻里，变得有了计较和盘算，再也没有曾经的纯粹"
+    "再遇到喜欢的人，想来只觉得非常遗憾，早几年遇见就好了，那些热烈、欢喜、年少轻狂和桀骜不驯，连同整个世界都要送给你。可你来得太晚了，我已经学会了一个人送走落日，一个人等待星光，我的爱早在无数个孤立无援的时刻里，变得有了计较和盘算，再也没有曾经的纯粹"
 
 .. figure:: /img/weixin.jpg
-   :width: 70%
+   :width: 40%
    :align: center
 
-   认识我
+
