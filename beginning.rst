@@ -3,7 +3,7 @@
    :author: Qitas
    :location: SH
 
-2021从心开始
+从心开始
 ==========================
 
 我们经历了太多世事沉浮，本心蒙蔽，长期处在竞争状态，内心压抑，从心开始，重构自己。
@@ -15,9 +15,8 @@
    从心开始，实现蜕变
 
 
-
 psychology
------
+=============
 
 Our biggest goal was building a shared understanding of the vision for the project.
 Being fully remote,
@@ -30,7 +29,7 @@ but never had the chance to discuss all the problems that we encounter with the 
 and then prioritize them.
 
 philosophy
-------
+=============
 
 We used the following format:
 
@@ -44,7 +43,7 @@ It gave us space to talk through all the various topics we had,
 but also gave concrete next steps to move forward on our tasks.
 
 lifestyle
---------
+=============
 
 The most valuable outcome is something I said at the offsite:
 
