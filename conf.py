@@ -252,7 +252,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'ReadtheDocsBlog.tex', u'QitasBlog',
-   u'Eric Holscher', 'manual'),
+   u'Qitas', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -282,7 +282,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'readthedocsblog', u'QitasBlog',
-     [u'Eric Holscher'], 1)
+     [u'Qitas'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -296,7 +296,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'ReadtheDocsBlog', u'QitasBlog',
-   u'Eric Holscher', 'ReadtheDocsBlog', 'One line description of project.',
+   u'Qitas', 'ReadtheDocsBlog', 'One line description of project.',
    'Miscellaneous'),
 ]
 
