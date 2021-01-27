@@ -39,5 +39,5 @@
 迁就规则或许可以成功，但这并不意味着成功一定要迁就规则。每个人的路都不同，沿着别人的路并不能找到自己的归宿。
 
 .. figure:: /_static/weixin.jpg
-   :width: 30%
+   :width: 40%
    :align: center

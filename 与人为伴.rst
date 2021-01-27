@@ -33,7 +33,7 @@
 愿我们都能找到一个像太阳一样发光的人，能在你无助的时候，帮你晒晒所有不值一提的迷茫。
 
 .. figure:: /_static/weixin.jpg
-   :width: 30%
+   :width: 40%
    :align: center
 
 
