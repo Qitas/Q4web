@@ -1,5 +1,5 @@
 .. post:: Dec 28, 2020
-   :tags: 认知, 感悟
+   :tags: 突破, 感悟
    :author: Qitas
    :location: CDU
 
@@ -39,7 +39,6 @@
     可你来得太晚了，我已经学会了一个人送走落日，一个人等待星光，我的爱早在无数个孤立无援的时刻里，变得有了计较和盘算，再也没有曾经的纯粹。"
 
 .. figure:: /_static/weixin.jpg
-   :width: 40%
    :align: center
 
 
