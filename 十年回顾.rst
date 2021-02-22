@@ -8,7 +8,7 @@
 
 “人们总是高估了未来一到两年的变化，低估了未来十年的变革。”      —— 比尔盖茨
 
-.. figure:: /imges/3.jpg
+.. figure:: /imges/221.jpg
    :width: 100%
    :align: center
 
