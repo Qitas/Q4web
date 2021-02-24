@@ -49,8 +49,9 @@ blog_default_author = 'Qitas'
 
 blog_locations = {
     'SHA': ('中国, 上海', 'http://www.qitas.cn/'),
-    'SUZ': ('中国, 苏州', 'http://www.qitas.cn/'),
-    'CDU': ('中国, 成都', 'http://www.qitas.cn/'),
+    'SUZ': ('江苏, 苏州', 'http://www.qitas.cn/'),
+    'CDU': ('四川, 成都', 'http://www.qitas.cn/'),
+    'DAZ': ('四川, 达州', 'https://www.zhihu.com/topic/19757465/hot'),
 }
 blog_default_location = 'SHA'
 blog_feed_archives = True
