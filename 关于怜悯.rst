@@ -1,14 +1,14 @@
-.. post:: Feb 16, 2021
-   :tags: 心理, 实现
+.. post:: Feb 13, 2021
+   :tags: 心理, 怜悯
    :author: Qitas
-   :location: SHA
+   :location: DAZ
 
-对立互补
+关于怜悯
 ================
 
-“人们总是高估了未来一到两年的变化，低估了未来十年的变革。”      —— 比尔盖茨
+“可怜之人必有可恨之处，可恨之人必有可悲之苦。”
 
-.. figure:: /imges/223.jpg
+.. figure:: /imges/20210213.jpg
    :width: 100%
    :align: center
 

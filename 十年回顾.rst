@@ -1,14 +1,14 @@
-.. post:: Feb 12, 2021
-   :tags: 朋友, 经历, 故事
+.. post:: Feb 11, 2021
+   :tags: 朋友, 时间, 反思
    :author: Qitas
-   :location: SUZ
+   :location: DAZ
 
-多彩人生
+十年回顾
 ================
 
-“人们总是高估了未来一到两年的变化，低估了未来十年的变革。”      —— 比尔盖茨
+“人们总是高估未来一到两年的变化，低估未来十年的变革。”      —— 比尔盖茨
 
-.. figure:: /imges/221.jpg
+.. figure:: /imges/20210211.jpg
    :width: 100%
    :align: center
 
